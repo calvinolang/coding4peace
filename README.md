@@ -1,3 +1,6 @@
+There is always one moment in childhood when the door opens and lets the future in…
+Graham Greene, <i>The Power and the Glory</i>
+
 # coding4peace - a coderdojo for young Ukrainian refugees
 <img src="http://3.bp.blogspot.com/-O91YlyJgieA/UIx5LHgVC1I/AAAAAAAAB4s/TH9i_5Y59GU/s1600/smalltalk.png"  width="210" height="210">
 
