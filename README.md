@@ -2,7 +2,7 @@
 A coderdojo for young Ukrainian refugees
 # Summary
 This project defines a course, coderdojo-like, for young Ukrainian refugees. It describes the content of the course, the hardware and software requisites as well as the logistics ones. Finally it summarizes the content of the lessons.
-<img src="http://3.bp.blogspot.com/-O91YlyJgieA/UIx5LHgVC1I/AAAAAAAAB4s/TH9i_5Y59GU/s1600/smalltalk.png">
+<img src="http://3.bp.blogspot.com/-O91YlyJgieA/UIx5LHgVC1I/AAAAAAAAB4s/TH9i_5Y59GU/s1600/smalltalk.png" height=50% width=50%>
 # Description of the course
 Coding4Peace is a 4 lessons coderdojo course about coding mobile apps. 
 CoderDojo is a global volunteer-led community of free programming workshops for young people between 7 and 17. https://coderdojo.com/.
@@ -21,13 +21,13 @@ http://www.appinventor.org/book2
 - Students have to install the MIT App Inventor companion app before taking the course 
 - The course will be delivered in Saturday mornings, 10:00-12:00 (tentative)
 # Lessons
-Lesson 1: Elementary apps
+## Lesson 1: Elementary apps
 The first lesson will introduce the student to the development of apps through App Inventor. The first app the students will develop is “HelloPurr,” a picture of a cat that meows when you touch it and purrs when you shake the device on which it’s being viewed. For the students that quickly build it a second app will be proposed for development, PaintPot, a paintbrush-like app to implement a graphical editor.
-Lesson 2: Pong and other games
+## Lesson 2: Pong and other games
 The second lesson will focus on gaming. We will start recreating the classic Pong video game. Other games: LadyBug, MoleMash.
-Lesson 3: Language translation and other refugee oriented apps
+## Lesson 3: Language translation and other refugee oriented apps
 The third lesson will focus on apps that can be useful for student life. First an app able to translate the voice of the student and then output of the translated audio, then a map-oriented app.
-Lesson 4: Artificial Intelligence
+## Lesson 4: Artificial Intelligence
 The last lesson is about creating artificial intelligence powered apps, like image recognition.
 
 
