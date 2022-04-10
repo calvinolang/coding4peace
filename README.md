@@ -2,7 +2,7 @@
 <img src="http://3.bp.blogspot.com/-O91YlyJgieA/UIx5LHgVC1I/AAAAAAAAB4s/TH9i_5Y59GU/s1600/smalltalk.png"  width="210" height="210">
 
 # Summary
-This project defines a course, coderdojo-like, for young Ukrainian refugees. It describes the content of the course, the hardware and software requisites as well as the logistics ones. Finally it summarizes the content of the lessons.
+This project defines a course, coderdojo-like, for young Ukrainian refugees. It describes the content of the course, the hardware and software requisites as well as the logistics ones. Finally it summarizes the content of the lessons. See Coding4Peace.pdf for more details.
 # Description of the course
 Coding4Peace is a 4 lessons coderdojo course about coding mobile apps. 
 CoderDojo is a global volunteer-led community of free programming workshops for young people between 7 and 17. https://coderdojo.com/.
