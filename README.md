@@ -1,4 +1,4 @@
-There is always one moment in childhood when the door opens and lets the future in…
+There is always one moment in childhood when the door opens and lets the future in…<br>
 Graham Greene, <i>The Power and the Glory</i>
 
 # coding4peace - a coderdojo for young Ukrainian refugees
